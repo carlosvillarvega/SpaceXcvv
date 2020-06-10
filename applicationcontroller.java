@@ -34,3 +34,43 @@ public class ApplicationController {
 	
 	public TweetParser parser= new TweetParser();
 	
+	@RequestMapping("/spaceXTweets")
+	@ResponseBody
+	public List<Tweet> getSpaceXTweets() throws JSONException, URISyntaxException {
+		
+		URI uri= new URI(TWITTER__BASE_URL+SPACE_X);
+		RestTemplate restTemplate = new RestTemplate();
+		Map tweets= restTemplate.getForEntity(uri, Map.class).getBody();
+		
+		JSONObject tweetsAsJSON = new JSONObject(tweets);
+		return parser.parseTweet(tweetsAsJSON);
+	}
+	
+	
+	@RequestMapping("/spaceXTweets/stats/images")
+	@ResponseBody
+	public ImageStatistics getSpaceXTweetsWithImages() throws URISyntaxException, JSONException {
+		
+		URI uri= new URI(TWITTER__BASE_URL+SPACE_X);
+		RestTemplate restTemplate = new RestTemplate();
+		Map tweets= restTemplate.getForEntity(uri, Map.class).getBody();
+		
+		JSONObject tweetsAsJSON = new JSONObject(tweets);
+		
+		return parser.parseTweetsWithImages(tweetsAsJSON);
+	}
+	
+	@RequestMapping("/spaceXTweets/stats/commonWords")
+	@ResponseBody
+	public List<WordStatistics> getSpaceXTweetsCommonWords() throws URISyntaxException, JSONException {
+	
+		URI uri= new URI(TWITTER__BASE_URL+SPACE_X);
+		RestTemplate restTemplate = new RestTemplate();
+		Map tweets= restTemplate.getForEntity(uri, Map.class).getBody();
+		
+		JSONObject tweetsAsJSON = new JSONObject(tweets);
+		
+		return parser.parseTweetCommonWords(tweetsAsJSON);
+	}
+}
+	
