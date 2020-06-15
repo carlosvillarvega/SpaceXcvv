@@ -2,7 +2,7 @@
 
 I file java necessari:
 
--SpaceXApplicatio.java
+-SpaceXApplication.java
 
 -ApplicationController.java
 
