@@ -15,7 +15,7 @@
 -TweetParser.java
 
 
-(In precedenza realizzata la richiesta dell'API di Twitter)
+(In precedenza realizzata la richiesta dell'API di Twitter su:https://developer.twitter.com/en/docs/tweets/search/api-reference/get-search-tweets )
 
 ## FUNZIONAMENTO:
 
