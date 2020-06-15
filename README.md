@@ -15,7 +15,7 @@
 -TweetParser.java
 
 
-(In precedenza realizzata la richiesta della API di Twitter)
+(In precedenza realizzata la richiesta dell'API di Twitter)
 
 ## FUNZIONAMENTO:
 
