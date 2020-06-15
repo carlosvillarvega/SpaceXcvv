@@ -16,7 +16,7 @@ I file java necessari:
 
 (In precedenza realizzata la richiesta della API di Twitter)
 
-## FUNCIONAMENTO:
+## FUNZIONAMENTO:
 1.Iniciare java 
 
 2.Quando charica tutto su le console, vai a Postman
