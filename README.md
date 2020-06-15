@@ -1,6 +1,6 @@
 # SpaceXcvv
 
-(In precedenza realizzatta la richiesta della API di Twitter)
+(In precedenza realizzata la richiesta della API di Twitter)
 
 ## FUNCIONAMENTO:
 1.Iniciare java 
