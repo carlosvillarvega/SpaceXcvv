@@ -1,17 +1,18 @@
 # SpaceXcvv
 
 I file java necessari:
-SpaceXApplicatio.java
 
-ApplicationController.java
+-SpaceXApplicatio.java
 
-ImageStatistics.java
+-ApplicationController.java
 
-Tweet.java
+-ImageStatistics.java
 
-WordStatistics.java
+-Tweet.java
 
-TweetParser.java
+-WordStatistics.java
+
+-TweetParser.java
 
 (In precedenza realizzata la richiesta della API di Twitter)
 
