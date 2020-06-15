@@ -14,6 +14,7 @@ I file java necessari:
 
 -TweetParser.java
 
+
 (In precedenza realizzata la richiesta della API di Twitter)
 
 ## FUNZIONAMENTO:
@@ -25,3 +26,7 @@ I file java necessari:
 
 4.Premi il botone SEND di postman che corri e invia il resultato di tweets con la sua data, ID e testo.
 (Ha uno limite di novanta tweets)
+
+Tutti sono iguale processo, dovrebbe cambiare solo la URL 
+
+
