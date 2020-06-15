@@ -1,6 +1,6 @@
 # SpaceXcvv
 
-I file java necessari:
+##### I file java necessari: 
 
 -SpaceXApplication.java
 
@@ -18,7 +18,8 @@ I file java necessari:
 (In precedenza realizzata la richiesta della API di Twitter)
 
 ## FUNZIONAMENTO:
-1.Iniciare java 
+
+1.Iniziare java 
 
 2.Quando charica tutto su le console, vai a Postman
 
