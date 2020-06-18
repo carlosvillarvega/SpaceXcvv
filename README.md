@@ -14,7 +14,7 @@
 
 -TweetParser.java
 
-https://raw.githubusercontent.com/carlosvillarvega/SpaceXcvv/master/ruta/al/asset
+https://raw.githubusercontent.com/carlosvillarvega/SpaceXcvv/master/Diagramma.jpg
 
 
 (In precedenza realizzata la richiesta dell'API di Twitter su: https://developer.twitter.com/en/docs/tweets/search/api-reference/get-search-tweets )
