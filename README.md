@@ -14,6 +14,7 @@
 
 -TweetParser.java
 
+Diagrama:
 https://raw.githubusercontent.com/carlosvillarvega/SpaceXcvv/master/Diagramma.jpg
 
 
