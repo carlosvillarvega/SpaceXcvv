@@ -32,4 +32,5 @@
 
 Tutti sono iguale processo, dovrebbe cambiare solo la URL 
 
+![Diagrama:](![Diagrama:](https://raw.githubusercontent.com/carlosvillarvega/SpaceXcvv/master/Diagramma.jpg)
 
