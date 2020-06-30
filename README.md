@@ -33,7 +33,7 @@
 Tutti sono iguale processo, dovrebbe cambiare solo la URL 
 
 
-![Diagrama:] (https://raw.githubusercontent.com/carlosvillarvega/SpaceXcvv/blob/master/sequenza%20(1).png)
+
 
 
 
