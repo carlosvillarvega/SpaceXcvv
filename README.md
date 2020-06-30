@@ -40,7 +40,7 @@ Questo progetto consiste in uno programa su java che principalemente faccia tre 
 4.Premi il botone SEND di postman che corri e invia il resultato di tweets con la sua data, ID e testo.
 (Ha uno limite di novanta tweets)
 
-Tutti sono iguale processo, dovrebbe cambiare solo la URL
+Tutti sono uguali processi, dovrebbe cambiare solo la URL
 
 
 #### Diagramma delle sequenze
