@@ -1,18 +1,18 @@
 package com.example.spaceX.model;
 
-
 public class Tweet {
-	private static final long serialVersionUID = 1L;
 	public String creationDate;
 	public int id;
 	public String text;
+	public String metadata;
 	
 	
-	public Tweet(String creationDate, int id, String text) {
+	public Tweet(String creationDate, int id, String text, String metadata) {
 		super();
 		this.creationDate = creationDate;
 		this.id = id;
 		this.text = text;
+		this.metadata=metadata;
 	}
 	
 	
@@ -33,6 +33,16 @@ public class Tweet {
 	}
 	public void setText(String text) {
 		this.text = text;
+	}
+
+
+	public String getMetadata() {
+		return metadata;
+	}
+
+
+	public void setMetadata(String metadata) {
+		this.metadata = metadata;
 	}
 	
 	
