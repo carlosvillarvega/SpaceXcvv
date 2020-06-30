@@ -40,7 +40,7 @@ Questo progetto consiste in uno programa su java che principalemente faccia tre 
 4.Premi il botone SEND di postman che corri e invia il resultato di tweets con la sua data, ID e testo.
 (Ha uno limite di novanta tweets)
 
-Tutti sono iguale processo, dovrebbe cambiare solo la URL 
+Tutti sono iguale processo, dovrebbe cambiare solo la URL
 
 
 #### Diagramma delle sequenze
@@ -50,13 +50,19 @@ Tutti sono iguale processo, dovrebbe cambiare solo la URL
 
 #### Diagrammi degli tre casi d'uso
 
+
+
 ###### Tweets che contengano SpaceX
 
 ![Diagrama:](https://raw.githubusercontent.com/carlosvillarvega/SpaceXcvv/master/utilizocaso1.png)
 
+
+
 ###### Numero di tweets con immagine
 
 ![Diagrama:](https://raw.githubusercontent.com/carlosvillarvega/SpaceXcvv/master/utilizocaso2.png)
+
+
 
 ###### Statistica su le parole più comune
 
