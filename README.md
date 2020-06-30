@@ -34,7 +34,7 @@ Tutti sono iguale processo, dovrebbe cambiare solo la URL
 
 
 
-![diagrama](https://raw.githubusercontent.com/carlosvillarvega/SpaceXcvv/master/sequenza(1).png)
+![diagrama](https://raw.githubusercontent.com/carlosvillarvega/SpaceXcvv/blob/master/sequenza%20(1).png)
 
 
 
