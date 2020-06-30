@@ -1,5 +1,15 @@
 # SpaceXcvv
 
+Questo progetto consiste in uno programa su java che principalemente faccia tre funzioni:
+
+1-Cercare tutti i tweet che contengono riferimenti a SpaceX
+
+2-Statistica sul numero di tweets con immagini
+
+3-Statistica su le parole più comuni (numeri di volte che compaiono)
+
+
+
 ### I file java necessari: 
 
 -SpaceXApplication.java
@@ -33,8 +43,23 @@
 Tutti sono iguale processo, dovrebbe cambiare solo la URL 
 
 
+####Diagramma delle sequenze
 
 ![Diagrama:](https://raw.githubusercontent.com/carlosvillarvega/SpaceXcvv/master/sequenza.png)
 
+
+####Diagrammi degli tre casi d'uso
+
+######Tweets che contengano SpaceX
+
+![Diagrama:](https://raw.githubusercontent.com/carlosvillarvega/SpaceXcvv/master/utilizocaso1.png)
+
+######Numero di tweets con immagine
+
+![Diagrama:](https://raw.githubusercontent.com/carlosvillarvega/SpaceXcvv/master/utilizocaso2.png)
+
+######Statistica su le parole più comune
+
+![Diagrama:](https://raw.githubusercontent.com/carlosvillarvega/SpaceXcvv/master/utilizzo3.png)
 
 
