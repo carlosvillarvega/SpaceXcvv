@@ -43,22 +43,22 @@ Questo progetto consiste in uno programa su java che principalemente faccia tre 
 Tutti sono iguale processo, dovrebbe cambiare solo la URL 
 
 
-####Diagramma delle sequenze
+#### Diagramma delle sequenze
 
 ![Diagrama:](https://raw.githubusercontent.com/carlosvillarvega/SpaceXcvv/master/sequenza.png)
 
 
-####Diagrammi degli tre casi d'uso
+#### Diagrammi degli tre casi d'uso
 
-######Tweets che contengano SpaceX
+###### Tweets che contengano SpaceX
 
 ![Diagrama:](https://raw.githubusercontent.com/carlosvillarvega/SpaceXcvv/master/utilizocaso1.png)
 
-######Numero di tweets con immagine
+###### Numero di tweets con immagine
 
 ![Diagrama:](https://raw.githubusercontent.com/carlosvillarvega/SpaceXcvv/master/utilizocaso2.png)
 
-######Statistica su le parole più comune
+###### Statistica su le parole più comune
 
 ![Diagrama:](https://raw.githubusercontent.com/carlosvillarvega/SpaceXcvv/master/utilizzo3.png)
 
